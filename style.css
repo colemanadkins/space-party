@@ -6,6 +6,8 @@ body {
 }
 h1 {
     color: pink;
+    margin-top:1.5em;
+    margin-bottom:1.5em;
 }
 h2 {
     color: lightblue;
