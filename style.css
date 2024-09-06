@@ -6,11 +6,16 @@ body {
 }
 h1 {
     color: pink;
+    font-size: 48pt;
     margin-top:1.5em;
     margin-bottom:1.5em;
+    font-family: "Orbitron", sans-serif;
+    font-weight: bold;
 }
 h2 {
     color: lightblue;
+    font-family: "Orbitron", sans-serif;
+    font-weight: bold;
 }
 h3 {
     color: green;
