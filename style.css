@@ -16,3 +16,9 @@ h3 {
 p {
     color: pink;
 }
+.pic1{
+    width:50%;
+    border:3px dotted lightblue;
+    border-radius: 50%;
+}
+
