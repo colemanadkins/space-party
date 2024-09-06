@@ -22,5 +22,12 @@ p {
     width:65%;
     border:3px dotted lightblue;
     border-radius: 50%;
+    margin-bottom: 3em;
+}
+.whoscoming {
+    margin-top: 1.5em;
+}
+.rsvp{
+    margin-bottom:3em;
 }
 
