@@ -1,11 +1,14 @@
 * {
     text-align: center;
 }
+body {
+    background-image: url(IC405_RC_Full-Leonardo-Orazi.jpeg);
+}
 h1 {
-    color: red;
+    color: pink;
 }
 h2 {
-    color: blue;
+    color: lightblue;
 }
 h3 {
     color: green;
