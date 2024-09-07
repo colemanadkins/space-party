@@ -5,12 +5,14 @@ body {
     background-image: url(IC405_RC_Full-Leonardo-Orazi.jpeg);
 }
 h1 {
-    color: pink;
+    color: white;
     font-size: 48pt;
     margin-top:1.5em;
     margin-bottom:1.5em;
     font-family: "Orbitron", sans-serif;
     font-weight: bold;
+    text-shadow: 5px 5px 5px rgb(249, 75, 220);
+    filter:blur(0px);
 }
 h2 {
     color: skyblue;
@@ -19,9 +21,6 @@ h2 {
 }
 h3 {
     color: green;
-}
-p {
-    color: pink;
 }
 .pic1{
     width:90%;
@@ -34,5 +33,14 @@ p {
 }
 .rsvp{
     margin-bottom:3em;
+}
+a{
+    color:white;
+}
+p{
+    font-size:16pt;
+    font-family: "Orbitron", sans-serif;
+    font-weight: bold;
+    color:lightgreen;
 }
 
