@@ -12,7 +12,7 @@ h1 {
     font-family: "Orbitron", sans-serif;
     font-weight: bold;
     text-shadow: 5px 5px 5px rgb(244, 4, 160);
-    filter:blur(1px);
+    filter:blur(0.5px);
 
 }
 h2 {
