@@ -8,16 +8,18 @@ h1 {
     color: white;
     font-size: 48pt;
     margin-top:1.5em;
-    margin-bottom:1em;
+    margin-bottom:0em;
     font-family: "Orbitron", sans-serif;
     font-weight: bold;
-    text-shadow: 5px 5px 5px rgb(249, 75, 220);
+    text-shadow: 5px 5px 5px rgb(244, 4, 160);
     filter:blur(0px);
 }
 h2 {
     color: skyblue;
     font-family: "Orbitron", sans-serif;
     font-weight: bold;
+    margin-top:1em;
+    margin-bottom:1em;
 }
 h3 {
     color: green;
@@ -38,7 +40,7 @@ a{
     color:white;
 }
 p{
-    font-size:16pt;
+    font-size:12pt;
     font-family: "Orbitron", sans-serif;
     font-weight: bold;
     color:lightgreen;
