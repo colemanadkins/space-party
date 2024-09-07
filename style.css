@@ -6,16 +6,17 @@ body {
 }
 h1 {
     color: white;
-    font-size: 48pt;
+    font-size: 36pt;
     margin-top:1.5em;
     margin-bottom:0em;
     font-family: "Orbitron", sans-serif;
     font-weight: bold;
     text-shadow: 5px 5px 5px rgb(244, 4, 160);
-    filter:blur(0px);
+    filter:blur(1px);
+
 }
 h2 {
-    color: skyblue;
+    color: cyan;
     font-family: "Orbitron", sans-serif;
     font-weight: bold;
     margin-top:1em;
@@ -26,7 +27,7 @@ h3 {
 }
 .pic1{
     width:90%;
-    border:3px dotted skyblue;
+    border:3px dotted cyan;
     border-radius: 50%;
     margin-bottom: 3em;
 }
@@ -38,11 +39,14 @@ h3 {
 }
 a{
     color:white;
+    text-shadow: 5px 5px 5px rgb(131, 84, 249);
+    filter:blur(0.5px);
+    text-decoration: none;
 }
 p{
     font-size:12pt;
     font-family: "Orbitron", sans-serif;
     font-weight: bold;
-    color:lightgreen;
+    color:rgb(73, 245, 11);
 }
 
